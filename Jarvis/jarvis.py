@@ -1,18 +1,17 @@
-import pyttsx3
+import pyttsx3 #pip install pyttsx3
 import webbrowser
-import smtplib
 import random
-import speech_recognition as sr
-import wikipedia
-import time
-import datetime
-import pyjokes
+import speech_recognition as sr #pip install SpeechRecognition
+import wikipedia #pip install wikipedia
+import time     
+import datetime #pip install DateTime
+import pyjokes # pip install pyjokes
 import os
 import os.path
 import sys
-import wolframalpha
-import PyPDF2
-import requests
+import wolframalpha #pip install wolframalpha
+import PyPDF2 #pip install PyPDF2
+import requests #pip install requests
 from requests import get
 import json
 from tkinter.filedialog import *
